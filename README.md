@@ -1,6 +1,6 @@
 # Ymir---quantum1net-node-v0.1.1
 
-Please download and unzip the package to Q1N_Node folder.
+Please download and unzip the package.
 
 There are four files in the Node folder.
 
